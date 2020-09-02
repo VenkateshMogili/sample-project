@@ -2,4 +2,4 @@
 
 ## Description
 
-It's about sample github project.
+It's about sample github project and Github Pages.
