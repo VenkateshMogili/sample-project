@@ -2,5 +2,4 @@
 
 ## Description
 
-It's about sample github project and Github Pages. Description changed fine.
-changes. ok. changed again. ok ok fine ok
+It's about sample github project and Github Pages. Description changed.
