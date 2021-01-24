@@ -1,0 +1,15 @@
+To Run Redux code:
+------------------
+cd redux-practical
+npm install
+node index.js OR node asyncOperations.js
+
+
+To Run React-Redux App:
+cd react-redux-crash-course
+npm install
+npm start
+
+
+
+!!!(-:All The Best:-)!!!
